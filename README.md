@@ -1,6 +1,7 @@
 # AI Multiagent in Roblox with Gemini 2.0
 
 An AI multiagent that uses Google Gemini to interact with players through the chat and interact with the game environment. In-game logs are sent to an external MongoDB database to evaluate outputs and improve prompts.
+
 Video showcase: [https://www.youtube.com/watch?v=LAZ73IQWv0Q](https://www.youtube.com/watch?v=LAZ73IQWv0Q)
 
 ## Table of Contents
@@ -31,7 +32,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Email**: hariskhugyani1@gmail.com
 - **Discord**: tinscoot
 - **GitHub**: [hariskhu](https://github.com/hariskhu)
-- **Project Link**: [https://github.com/your-username/your-repo](https://github.com/your-username/your-repo)
+- **Project Link**: [https://github.com/hariskhu/gemini-roblox-multiagent](https://github.com/hariskhu/gemini-roblox-multiagent)
 
 ## Reflection
 
